@@ -26,5 +26,4 @@ Astronomy, my celestial muse, serves as a constant reminder of the grandeur of t
 
 Join me in this grand tapestry of education and technology. Together, we'll decode the digital constellations and compose digital sonnets that echo through the corridors of knowledge. Feel free to explore the artifacts within this repository, and should you wish to embark on a digital quest, don't hesitate to reach out. The digital universe awaits! 🪐🌟
 
-<--[Contact Information or Social Media Links]-->
-
+transcendtech.netlify.app
